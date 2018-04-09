@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab5_prob1</string>
+    <string name="messageChoose">Choose your movie</string>
+    <string-array name="movies">
+        <item>Star War1</item>
+        <item>Star War2</item>
+        <item>Star War3</item>
+        <item>Star War4</item>
+        <item>Star War5</item>
+        <item>Star War6</item>
+        <item>Star War7</item>
+        <item>Star War8</item>
+        <item>Star War9</item>
+    </string-array>
+</resources>
