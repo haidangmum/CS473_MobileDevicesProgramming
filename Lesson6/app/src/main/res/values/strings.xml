@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson6</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_about_me">About Me</string>
+    <string name="tab_work">Work</string>
+    <string name="tab_contact">Contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="foody_vn">Foody VN</string>
+    <string name="harvey_nash">Harvey Nash Vietnam</string>
+    <string name="DXC">DXC Vietnam</string>
+    <string name="ios_developer">Senior iOS Developer</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis aliquet nulla non lobortis. Aliquam vehicula magna enim, et porttitor enim commodo eu. Curabitur vitae purus quis libero convallis iaculis ut non metus. Integer quis justo ex. Aliquam porta nulla ut ligula feugiat ultricies. Vestibulum tristique tellus eget nisl placerat, ac dapibus augue porta. Nam faucibus blandit nisi eu dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+    <string name="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis aliquet nulla non lobortis. Aliquam vehicula magna enim, et porttitor enim commodo eu. Curabitur vitae purus quis libero convallis iaculis ut non metus. Integer quis justo ex. Aliquam porta nulla ut ligula feugiat ultricies. Vestibulum tristique tellus eget nisl placerat, ac dapibus augue porta. Nam faucibus blandit nisi eu dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n Aliquam nec nibh ac libero blandit condimentum. Morbi scelerisque dui id tellus sollicitudin scelerisque. Sed tortor massa, mollis ac lacus varius, posuere faucibus dui. Fusce eget facilisis sem. Nulla eu sapien ante. Aenean nec facilisis sapien. Curabitur varius eros at placerat suscipit. Mauris vehicula faucibus justo, in eleifend odio tincidunt at. Proin ullamcorper, leo eu consequat ultrices, mauris libero faucibus tortor, et pellentesque risus ex quis metus. Suspendisse pharetra dignissim eros, non dapibus elit placerat a. Donec erat magna, pellentesque quis ante ac, placerat condimentum arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi non enim sit amet mi hendrerit commodo.\n In suscipit egestas massa, non ullamcorper nibh vestibulum vitae. Aenean consequat leo eu diam maximus faucibus. Etiam non faucibus erat. Sed efficitur tristique massa semper lobortis. Sed placerat, erat eget venenatis rhoncus, nisl urna porttitor lectus, in pulvinar erat urna nec felis. Quisque viverra pretium ante eu auctor. Sed imperdiet auctor posuere. Ut vulputate nunc sed efficitur aliquam. Aenean nibh odio, pulvinar quis finibus sed, rutrum a metus. Integer lacinia libero quis magna pulvinar, eget venenatis ex dapibus. Suspendisse rhoncus mi at rutrum ultricies. Ut ultricies purus sed nulla laoreet, sed euismod tortor varius. Suspendisse id purus ut sapien cursus feugiat convallis vitae felis.</string>
+</resources>
